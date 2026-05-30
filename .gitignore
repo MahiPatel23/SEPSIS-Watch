@@ -2,3 +2,5 @@
 data/raw/ 
 data/processed/ 
 .ipynb_checkpoints/ 
+eda_01.ipynb 
+eda_01.html 
