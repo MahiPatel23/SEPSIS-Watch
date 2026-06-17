@@ -16,13 +16,14 @@
 Sepsis kills 270,000 Americans every year and costs hospitals $24B annually. Current ICU alert systems miss early warning signs — SepsisWatch uses machine learning to flag high-risk patients hours before sepsis becomes life-threatening.
 
 ## 📁 Project Structure
-sepsiswatch/
-|--- app/ # Streamlit Dashboard
-|--- data/ # Patient data (not uploaded - PhysioNet credentialed)
-|--- docs/ # GitHub Pages HTML notebooks
-|--- model/ # Trained ML model
-|--- notebooks/ # EDA, Funnel, Cost analysis notebooks
-|___ requirements.txt
+- `app/` — Streamlit dashboard
+- `data/` — Patient data (not uploaded — PhysioNet credentialed)
+- `docs/` — GitHub Pages HTML notebooks
+- `model/` — Trained ML model
+- `cost_analysis.ipynb` — Cost impact analysis
+- `funnel_analysis.ipynb` — Patient funnel analysis
+- `eda_01.ipynb` — Exploratory data analysis
+- `requirements.txt` — Python dependencies
 
 ## 🛠 Tech Stack
 Python · Pandas · Scikit-learn · Streamlit · Plotly · Joblib
