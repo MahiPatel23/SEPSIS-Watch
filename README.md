@@ -35,4 +35,4 @@ MIMIC-IV (credentialed access pending) — 300,000+ ICU patients
 ## 👥 Team
 - Mahi Patel — EDA, Funnel Analysis, Cost Impact, Dashboard, Deployment
 - Pihu — Clinical Feature Engineering, ML Model, SHAP Explainability
-- Krish — Frontend Development, Deployment
+
